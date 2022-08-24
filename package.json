@@ -1,5 +1,5 @@
 {
-  "name": "camel.case.do",
+  "name": "kebab.case.do",
   "version": "1.0.0",
   "description": "Convert JSON Object Keys to kebab-case",
   "repository": "git@github.com:drivly/kebab.case.do.git",
