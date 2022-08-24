@@ -6,7 +6,7 @@
   "license": "MIT",
   "module": "worker.js",
   "dependencies": {
-    "kebabcase-keys": "^8.0.1"
+    "kebabcase-keys": "^1.0.0"
   },
   "scripts": {
     "dev": "wrangler dev worker.js",
