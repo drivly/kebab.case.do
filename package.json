@@ -1,12 +1,12 @@
 {
   "name": "camel.case.do",
   "version": "1.0.0",
-  "description": "Convert JSON Object Keys to camelCase",
-  "repository": "git@github.com:drivly/camel.case.do.git",
+  "description": "Convert JSON Object Keys to kebab-case",
+  "repository": "git@github.com:drivly/kebab.case.do.git",
   "license": "MIT",
   "module": "worker.js",
   "dependencies": {
-    "camelcase-keys": "^8.0.1"
+    "kebabcase-keys": "^8.0.1"
   },
   "scripts": {
     "dev": "wrangler dev worker.js",
