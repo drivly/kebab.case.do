@@ -1,5 +1,5 @@
-# camel.case.do
-Transform JSON Object Keys to camelCase
+# kebab.case.do
+Transform JSON Object Keys to kebab-case
 
-<http://camelcase.do.cf/pokeapi.co/api/v2/pokemon/1/>
+<http://kebabcase.do.cf/pokeapi.co/api/v2/pokemon/1/>
 
